@@ -1,0 +1,4 @@
+1. novy repozitar na github s nazvom Javascript_II_TPI
+2. inicitalizuje git na dannom priecinku. 
+3. ulozte si zmeny pomocou git commit
+4. nahrat index.html na github
