@@ -1,1 +1,19 @@
-Vaclavik  https://github.com/ukrajinec69/Java-script
+Vaclavik  https://github.com/ukrajinec69/2TPI
+kristofik https://github.com/adamkristofik/IITPI_JavaScript
+Sedlak https://github.com/bugsomeone/JavaScript.git			OK
+kucharic https://github.com/Jupik247/prvyprojekt/tree/main
+petrovicova https://github.com/petrovicka07/JS_II_TPI
+moskalenko https://github.com/Zelensky1233/JS_II_TPI.git
+miholek https://github.com/13gopnik37/2TPI_JavaScript
+donec https://github.com/slavaukraine101/prvyprojekt
+Kostruba https://github.com/redan1337/mojprojekt1
+
+
+
+echo "# testingskola" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lubbeno/testingskola.git
+git push -u origin main

@@ -24,10 +24,23 @@ let meno = "Lubos";
 let priezvisko = "Sukup";
 let mojeMeno = meno + " " + priezvisko;
 
-alert(mojeMeno);
+//alert(mojeMeno);
 
 let mojaAdresa = "Ulica test jedna 49 ; mesto 11111";
 let adresaSkoly = "Namestie sv. Martina 5; Holic 90851";
+
+mojaAdresa.toLowerCase;
+mojaAdresa.toUpperCase;
+mojaAdresa.substring
+mojaAdresa.endsWith
+mojaAdresa.repeat
+mojaAdresa.replace
+console.log(mojaAdresa.indexOf('te'));
+console.log('moje meno je vid dalsi riadok');
+console.log(mojeMeno);
+console.log(console)
+
+console.log(mojaAdresa.search('te'));
 
 
 //-------------------------------
