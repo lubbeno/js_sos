@@ -29,28 +29,25 @@ let mojeMeno = meno + " " + priezvisko;
 let mojaAdresa = "Ulica test jedna 49 ; mesto 11111";
 let adresaSkoly = "Namestie sv. Martina 5; Holic 90851";
 
-mojaAdresa.toLowerCase;
-mojaAdresa.toUpperCase;
-mojaAdresa.substring
-mojaAdresa.endsWith
-mojaAdresa.repeat
-mojaAdresa.replace
+mojaAdresa.toLowerCase();
+mojaAdresa.toUpperCase();
+mojaAdresa.substring();
+mojaAdresa.endsWith();
+mojaAdresa.repeat();
+mojaAdresa.replace();
 console.log(mojaAdresa.indexOf('te'));
 console.log('moje meno je vid dalsi riadok');
 console.log(mojeMeno);
-console.log(console)
+console.log(console);
+console.log('Lubos'.replace('bo','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'));
 
-console.log(mojaAdresa.search('te'));
+mojaPrvaFunkcia();
 
 
-//-------------------------------
+function mojaPrvaFunkcia () {
+alert("toto je moja prva funkcia");
+console.log("TOTO JE MOJA PRVA FUNKCIA!!!!");
 
-// vidime 8
-//const osem = 8;
-//let a = 15 + 3 * (4-osem/2);
+}
 
-let x = 0;
 
-let y = ((0 + 10) * 3) / 2 - 1;
-
-let textoveZobrazenie = "(0 + 10)*3 /2 -1";
