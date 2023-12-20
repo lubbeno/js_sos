@@ -31,13 +31,10 @@ function mojaToUpperCase(vstupnyText){
   let upravenyText = vstupnyText.toUpperCase();
   console.log(upravenyText);
   return upravenyText;
-  }
+  } 
 
-function mojaToUpperCaseSReturn(vstupnyText){
-let upravenyText = vstupnyText.toUpperCase();
-console.log(upravenyText);
 return upravenyText;
-}
+   
 
 function mojaToUpperCaseBezReturn(vstupnyText){
   let upravenyText = vstupnyText.toUpperCase();
